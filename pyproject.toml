@@ -16,7 +16,7 @@ include = [
 [tool.poetry.dependencies]
 python = "^3.10"
 flask-sqlalchemy = "^3.0.2"
-mypy = "^0.982"
+mypy = ">=0.982"
 sqlalchemy-stubs = "^0.4"
 
 [tool.poetry.dev-dependencies]
